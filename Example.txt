@@ -1,3 +1,7 @@
-Create some code in a new file called example.
+Create some code in a new file called Example.txt
+
+Add a new method to the code.
+
+
 
 
